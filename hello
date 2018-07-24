@@ -1,0 +1,6 @@
+#include<stdio.h>
+int mian()
+{
+   int i= 0;
+   ptintf("i++ = ",i++);
+}
